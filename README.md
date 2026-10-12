@@ -16,3 +16,7 @@ There is no framework and no separate script file. Each button appends to the di
 git clone https://github.com/kaankuzu1/ProjectCalculator.git
 open ProjectCalculator/index.html
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
